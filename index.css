@@ -1,0 +1,42 @@
+body {
+  background-color: #1c1c1c;
+}
+
+#main {
+  background-color: #1f2937;
+  padding-top: 100px;
+  padding-left: 100px;
+  margin: auto;
+  margin-top: 50px;
+  width: 1000px;
+  height: 500px;
+}
+
+#line1 {
+  color: white;
+  margin-top: 50px;
+}
+#line2 {
+  color: #10b981;
+}
+
+h2 {
+  margin-top: 100px;
+  color: white;
+}
+
+#generatebtn {
+  color: white;
+  background-color: #10b981;
+  font-size: large;
+  margin-top: 50px;
+  padding: 5px;
+}
+
+#password1 {
+  color: #273549;
+}
+
+#password2 {
+  color: #273549;
+}
